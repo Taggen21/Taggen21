@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Taggen21
-- 👀 I’m interested in learning to buid apps
+- 👀 I’m interested in learning to build apps
 - 🌱 I’m currently learning the basics of coding with python
 - 💞️ I’m looking to collaborate on getting tips and tricks on how to practice as much as possible
 - 📫 How to reach me ...
